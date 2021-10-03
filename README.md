@@ -20,4 +20,4 @@ A search for music should be categorized into the genre, region, language, artis
 
 ### Developers
 
-@kggurram @nikadari @
+@kggurram @nikadari :computer:
