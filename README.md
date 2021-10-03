@@ -16,7 +16,7 @@ A search for music should be categorized into the genre, region, language, artis
 
 ## ER Model
 
-![image](/ER_Model.png)
+![image](/ERModel.png)
 
 ### Developers
 
