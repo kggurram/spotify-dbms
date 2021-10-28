@@ -18,6 +18,16 @@ A search for music should be categorized into the genre, region, language, artis
 
 ![image](/ERModel.png)
 
+## Bash Scripts
+
+SSH into `moon.scs.ryerson.ca`, and navigate to CPS510 folder.
+
+Run `./spotifydbms_shell_menu.sh` for the main Spotify DBMS Shell Menu. This file runs shell scripts depending on user menu choice.
+
+`sqlplus64 "username/password@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(Host=oracle.scs.ryerson.ca)(Port=1521))(CONNECT_DATA=(SID=orcl)))"<<EOF`
+
+Replace **username** and **password** with valid required information.
+
 ### Developers
 
 @kggurram @nikadari @brianlulu :computer:
