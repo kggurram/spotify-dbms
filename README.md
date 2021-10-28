@@ -25,9 +25,7 @@ SSH into `moon.scs.ryerson.ca`, and navigate to CPS510 folder.
 Run `./spotifydbms_shell_menu.sh` for the main Spotify DBMS Shell Menu. This file runs shell scripts depending on user menu choice.
 
 In the other .sh files,
-`sqlplus64 "username/password@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(Host=oracle.scs.ryerson.ca)(Port=1521))(CONNECT_DATA=(SID=orcl)))"<<EOF`,
-
-Replace **username** and **password** with valid required information.
+`sqlplus64 "username/password@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(Host=oracle.scs.ryerson.ca)(Port=1521))(CONNECT_DATA=(SID=orcl)))"<<EOF` replace **username** and **password** with valid required information.
 
 ### Developers
 
