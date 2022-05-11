@@ -1,4 +1,5 @@
 # Spotify Database Management System
+> CPS510 (Database Systems) Project
  
 Spotify is the world’s largest music and podcast streaming service with over 165 million subscribers as of 2021. It was founded in Sweden by Daniel Ek and Martin Lorentzon on April 23, 2006. Spotify provides an easy-to-use platform for users to listen to their favourite songs and create their own library of playlists. 
 
